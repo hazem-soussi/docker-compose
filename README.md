@@ -14,7 +14,7 @@ You will need to download and install the following pieces of software:
 ## Installation
 To run the application you will need to run the following lines of code
 ```sh
-git clone https://github.com/christophperrins/simple-project
+git clone https://github.com/hazem-soussi/docker-compose
 cd simple-project
 mvn package -DskipTests
 docker-compose build
